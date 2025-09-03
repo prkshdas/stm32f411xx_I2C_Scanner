@@ -28,7 +28,7 @@ It scans the I²C bus and prints detected device addresses through UART.
 
 ---
 
-## ✨ Features
+## Features
 
 - Developed and tested on **STM32 Blackpill (STM32F411CEU6)**
 - Scans I²C addresses from **0x08 to 0x77**
